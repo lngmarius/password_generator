@@ -45,7 +45,7 @@ public class Password_generator {
     Password_generator vect = new Password_generator();
     vect.Afiseaza();
     System.out.println("------------");
-    
+    //test
      System.out.println((vect.Random(32)));
     }
 }
